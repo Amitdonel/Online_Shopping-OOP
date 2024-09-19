@@ -1,4 +1,4 @@
-# Online_Shopping
+# Online_Shopping - OOP
 
 This project implements a Java-based online shopping system that includes product management, shopping cart functionalities, and user interaction. It is divided into three phases:
 
